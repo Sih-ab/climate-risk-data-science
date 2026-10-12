@@ -1,0 +1,4 @@
+Variable,Trend,P-value,Sen slope per decade
+Temperature,decreasing,0.00044499440544454316,-0.20963854387995356
+Humidity,increasing,6.595378465590329e-09,3.532921722113511
+Rainfall,increasing,1.657597348270201e-08,380.07500000000005
